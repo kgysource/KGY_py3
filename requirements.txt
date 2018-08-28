@@ -1,6 +1,6 @@
 numpy
 Pillow>=1.0
-Flask
+Flask==0.12.2
 tensorflow==1.4.0
 six
 matplotlib
