@@ -6,4 +6,4 @@
 #
 
 # ipython
-exec python server.py
+#exec python server.py
