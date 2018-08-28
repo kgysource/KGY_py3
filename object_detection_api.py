@@ -125,6 +125,6 @@ def get_objects(image, threshold=0.5):
 
     outputJson = json.dumps([ob.__dict__ for ob in output])
     
-    return output.str()
+    #return output.str()
     
-    #return outputJson
+    return outputJson
